@@ -1,0 +1,22 @@
+Características Importantes de TypeScript
+
+Tipos Estáticos: Permite definir tipos para variables y funciones, ayudando a detectar errores en desarrollo.
+Interfaces y Tipos: Define estructuras de datos y contratos para objetos.
+Clases y Herencia: Soporta programación orientada a objetos con clases e interfaces.
+Modularidad: Usa módulos para organizar y reutilizar código.
+Compilación: Transforma TypeScript a JavaScript, detectando errores de tipo antes de ejecutar el código.
+Decoradores: Añade metadatos a clases y miembros.
+
+Diferencias con JavaScript
+Tipos de Datos:
+    JavaScript: Dinámico y débilmente tipado.
+    TypeScript: Estáticamente tipado.
+Compilación:
+    JavaScript: Ejecutado directamente.
+    TypeScript: Compilado a JavaScript.
+Características Adicionales:
+    JavaScript: Basado en ES6/ES5.
+    TypeScript: Incluye características como interfaces y decoradores.
+Modularidad:
+    JavaScript: Soporte limitado antes de ES6.
+    TypeScript: Modularidad avanzada y namespaces.

@@ -1,0 +1,5 @@
+Template Strings: Permiten interpolación de variables y expresiones, múltiples líneas, y una sintaxis más limpia
+para incluir comillas y otros caracteres especiales.
+
+Comillas Simples/Dobles: Requieren concatenación manual, manejo explícito de líneas múltiples con caracteres de escape,
+y escape de comillas dentro de la cadena.
